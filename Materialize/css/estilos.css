@@ -1,0 +1,26 @@
+.logo{
+  width: 25%;
+}
+.galeria{
+  padding: 2%;
+}
+.cuerpo
+{
+  background: url(../../img/wallpaperTurismo.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  color: #FFFFFF;
+  padding:  3%;
+}
+.nav-extended
+{
+    background-color: rgba(34, 237, 216, 0.4);
+}
+.card
+{
+    background-color: rgba(35, 98, 91, 0.7);
+}

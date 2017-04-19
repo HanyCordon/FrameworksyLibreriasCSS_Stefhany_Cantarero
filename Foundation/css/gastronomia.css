@@ -1,0 +1,25 @@
+.logo-img{
+  width: 30%;
+}
+.container
+{
+  background: url(../../img/wallpaperGastronomia.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.titulos
+{
+  color: #FFFF;
+}
+.callout.secondary
+{
+   background-color: rgba(67, 71, 79, 0.4);
+   border-radius: 4px;
+   width: 99%;
+}
+.button
+{
+  background-color: rgba(67, 71, 79, 0.4);
+  color: black;
+}
